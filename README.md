@@ -31,7 +31,7 @@
 
 ### 📫 How to reach me: ...
 
-- LinkedIn: [linkedin.com/in/Oluwafemi_Olatunji](https://www.linkedin.com/in/ayoola-lucas-211472343?utm)
+- LinkedIn: [linkedin.com/in/Ayoola_Lucas](https://www.linkedin.com/in/ayoola-lucas-211472343?utm)
 - Instagram: [@codedbyfemi](https://www.instagram.com/codedbyfemi/?__pwa=1)
 - Twitter: [@codedbyfemi](https://x.com/AyoolaLucas)
 - Email: ayoolalucas.dev@gmail.com
