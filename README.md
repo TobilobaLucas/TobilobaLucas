@@ -35,7 +35,7 @@
 - Instagram: [@codedbyfemi](https://www.instagram.com/codedbyfemi/?__pwa=1)
 - Twitter: [@codedbyfemi](https://x.com/AyoolaLucas)
 - Email: ayoolalucas.dev@gmail.com
-- Portfolio: [coming soon....]
+- Portfolio: https://tobilobalucas.github.io/MyPortfolio/ 
 
 
 ## 🏆 GitHub Trophies
