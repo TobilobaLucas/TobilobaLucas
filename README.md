@@ -32,7 +32,7 @@
 ### 📫 How to reach me: ...
 
 - LinkedIn: [linkedin.com/in/Ayoola_Lucas](https://www.linkedin.com/in/ayoola-lucas-211472343?utm)
-- Instagram: [Ayoola Lucas](https://www.instagram.com/codedbyfemi/?__pwa=1)
+- WhatsApp: [Ayoola Lucas](https://wa.me/2349150971822)
 - Twitter: [Ayoola Lucas](https://x.com/AyoolaLucas)
 - Email: ayoolalucas.dev@gmail.com
 - Portfolio: https://tobilobalucas.github.io/MyPortfolio/ 
