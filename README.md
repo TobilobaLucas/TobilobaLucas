@@ -34,7 +34,7 @@
 - LinkedIn: [linkedin.com/in/Oluwafemi_Olatunji](https://www.linkedin.com/in/ayoola-lucas-211472343?utm)
 - Instagram: [@codedbyfemi](https://www.instagram.com/codedbyfemi/?__pwa=1)
 - Twitter: [@codedbyfemi](https://x.com/AyoolaLucas)
-- Email: oluwafemiolatunji6002@gmail.com
+- Email: ayoolalucas.dev@gmail.com
 - Portfolio: [coming soon....]
 
 
