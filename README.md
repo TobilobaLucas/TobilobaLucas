@@ -42,7 +42,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=codedbyfemi&theme=onestar&no-frame=false&no-bg=false&margin-w=4&exclude=Star,Review,Issue,Stars,Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TobilobaLucas&theme=onestar&no-frame=false&no-bg=false&margin-w=4&exclude=Star,Review,Issue,Stars,Reviews,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -50,15 +50,15 @@
 
 <div align="center">
   
-![Damola's GitHub stats](https://github-readme-stats.vercel.app/api?username=codedbyfemi&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Damola's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobilobaLucas&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codedbyfemi&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TobilobaLucas&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codedbyfemi&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TobilobaLucas&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=codedbyfemi)
+![Profile views](https://komarev.com/ghpvc/?username=TobilobaLucas)
 
 
 <!--
