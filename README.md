@@ -31,7 +31,7 @@
 
 ### 📫 How to reach me: ...
 
-- LinkedIn: [linkedin.com/in/Ayoola_Lucas](https://www.linkedin.com/in/ayoola-lucas-211472343?utm)
+- LinkedIn: [linkedin.com/in/Ayoola_Lucas](https://www.linkedin.com/in/ayoola-lucas-595063379)
 - WhatsApp: [Ayoola Lucas](https://wa.me/2349150971822)
 - Twitter: [Ayoola Lucas](https://x.com/AyoolaLucas)
 - Email: ayoolalucas.dev@gmail.com
