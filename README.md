@@ -6,7 +6,7 @@
 
 </div>
 
-🎓 1st Year Software Engineering Student at Babcock University  
+🎓 2nd Year Software Engineering Student at Babcock University  
 📍 Based in Nigeria  
 🌱 Currently learning Spring Boot and React  
 🧑‍🏫 Passionate about teaching others Java, C, and backend development  
