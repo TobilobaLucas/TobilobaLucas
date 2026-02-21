@@ -35,7 +35,7 @@
 - WhatsApp: [Ayoola Lucas](https://wa.me/2349150971822)
 - Twitter: [Ayoola Lucas](https://x.com/AyoolaLucas)
 - Email: ayoolalucas.dev@gmail.com
-- Portfolio: https://tobilobalucas.github.io/MyPortfolio/ 
+- Portfolio: https://lucascodes.tech
 
 
 ## 🏆 GitHub Trophies
@@ -50,7 +50,7 @@
 
 <div align="center">
   
-![Damola's GitHub stats](https://github-readme-stats.vercel.app/api?username=TobilobaLucas&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=TobilobaLucas&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TobilobaLucas&theme=radical&hide_border=true)
 
