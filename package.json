@@ -1,0 +1,13 @@
+{
+  "name": "lucas-backend-arcade",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "sharp": "0.35.5"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs",
+    "test": "node scripts/check.mjs"
+  }
+}
