@@ -1,149 +1,108 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123047,100:22D3EE&height=220&section=header&text=LUCAS.&fontSize=80&fontColor=FFFFFF&fontAlignY=36&desc=Behind%20the%20interface.%20Inside%20the%20system.&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Lucas — Behind the interface. Inside the system." />
+<br />
 
-<sup>AYOOLA OLUWATOBILOBA LUCAS</sup>
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=14&duration=3000&pause=1800&color=A3E635&center=true&vCenter=true&width=600&height=35&lines=somewhere+between+an+idea+and+git+push." alt="Somewhere between an idea and git push." />
 
-### Backend developer. Software Engineering student. Curious by default.
+<h1>L U C A S</h1>
 
-I build APIs, untangle data flows, and think about what happens when things fail.
+**I like my interfaces simple and my backend interesting.**
+
+Java & Spring Boot developer · Software Engineering @ Babcock · Nigeria
 
 <br />
 
-<a href="https://lucascodes.tech">
-  <img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&logo=safari&logoColor=0D1117" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/ayoola-lucas-595063379">
-  <img src="https://img.shields.io/badge/LINKEDIN-123047?style=for-the-badge&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://x.com/AyoolaLucas">
-  <img src="https://img.shields.io/badge/FOLLOW_ON_X-123047?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="mailto:ayoolalucas.dev@gmail.com">
-  <img src="https://img.shields.io/badge/SAY_HELLO-123047?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://lucascodes.tech"><img src="https://img.shields.io/badge/↗_PORTFOLIO-A3E635?style=for-the-badge&logoColor=0D1117" alt="Portfolio" /></a>
+<a href="mailto:ayoolalucas.dev@gmail.com"><img src="https://img.shields.io/badge/LET'S_TALK-21262D?style=for-the-badge" alt="Email" /></a>
 
 <br />
 <br />
 
-`JAVA + SPRING BOOT` &nbsp; / &nbsp; `TYPESCRIPT` &nbsp; / &nbsp; `NIGERIA 🇳🇬`
+[GitHub](https://github.com/TobilobaLucas) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/ayoola-lucas-595063379) &nbsp; / &nbsp; [X](https://x.com/AyoolaLucas)
+
+<br />
 
 </div>
 
-<br />
+---
 
-## 01 / The person behind the commits
+### A little context.
 
-I'm **Lucas**, a third-year Software Engineering student at **Babcock University**.
+I'm **Ayoola Oluwatobiloba Lucas**. I build the parts you don't see:
+APIs, authentication, data flows, and the logic holding everything together.
 
-The backend is where I spend most of my time: designing APIs, handling authentication, and making sure data ends up where it should. My main focus is **Java and Spring Boot**, and I also build with **TypeScript on Cloudflare Workers**.
+**Java and Spring Boot** are my main focus. **TypeScript** is also part of my toolkit.
+Currently getting deeper into concurrency, failure recovery, and **Rust**.
 
-I'm especially interested in the questions that come after “it works”:
-
-- What happens when two requests arrive at the same time?
-- Can a failed operation be retried safely?
-- Could another developer understand this and run it?
-
-Outside that, I'm finding my feet with **Rust and systems programming**.
+I enjoy projects with a little personality. Useful doesn't have to mean boring.
 
 <br />
 
-## 02 / Things I'm building
+### Less talking. More building.
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<br />
 
-### SplitCash
-<sub>SUBSCRIPTIONS · SHARED COSTS</sub>
+<strong>01 &nbsp; / &nbsp; SPLITCASH</strong>
 
-Sharing subscription costs should be easier to coordinate.
+### Good subscriptions.<br />Shared costs.
 
-I'm building a Nigeria-first, invite-based MVP with private crews and simulated payments.
+An invite-based platform for coordinating subscription costs. Building the Nigeria-first MVP with private crews and simulated payments.
 
-**TypeScript · Cloudflare Workers · PostgreSQL**
+<sub>TYPESCRIPT &nbsp; · &nbsp; CLOUDFLARE WORKERS &nbsp; · &nbsp; POSTGRESQL</sub>
 
-<a href="https://github.com/TobilobaLucas/Splitcash">Explore the repository ↗</a>
+<br /><br />
 
+<a href="https://github.com/TobilobaLucas/Splitcash"><strong>Inside the repo ↗</strong></a>
+
+<br /><br />
 </td>
 <td width="50%" valign="top">
+<br />
 
-### ChatLore
-<sub>CONVERSATIONS · TURNED INTO STORIES</sub>
+<strong>02 &nbsp; / &nbsp; CHATLORE</strong>
 
-Every group chat has its own lore.
+### Your group chat<br />has a plot.
 
-A WhatsApp recap project that turns exported conversations into personalized story-style highlights, with local analysis and AI-assisted storytelling.
+Turning WhatsApp exports into personalized story-style recaps. Local chat analysis meets AI-assisted storytelling.
 
-**Chat analysis · Storytelling · Share cards**
+<sub>CHAT ANALYSIS &nbsp; · &nbsp; AI STORYTELLING &nbsp; · &nbsp; SHARE CARDS</sub>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br /><br />
 
-### Video Compression Tool
-<sub>SMALLER FILES · EASIER SHARING</sub>
+<strong>In the workshop.</strong>
 
-Built around a familiar problem: a video that's too large to send.
-
-Configurable compression quality, upload limits, and automatic cleanup of temporary files.
-
-**Video processing · Quality controls · File handling**
-
-</td>
-<td width="50%" valign="top">
-
-### The learning bench
-<sub>SMALL EXPERIMENTS · DEEPER UNDERSTANDING</sub>
-
-Where I work through the parts I want to understand better.
-
-Current interests: concurrent requests, data consistency, secure APIs, and recovering from failures.
-
-**Java · Spring Boot · Rust**
-
+<br /><br />
 </td>
 </tr>
 </table>
 
-<br />
-
-## 03 / My toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,ts,postgres,redis,rust&theme=dark" alt="Java, Spring, TypeScript, PostgreSQL, Redis, Rust" />
-
-<br />
-<br />
-
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,cloudflare,git,linux&theme=dark" alt="JavaScript, React, Next.js, Cloudflare, Git, Linux" />
-
-</div>
+**Also built →** A video compression tool with quality controls, file-size limits, and automatic upload cleanup. Because “file too large” is annoying.
 
 <br />
 
-| Area | What I work with |
-| :--- | :--- |
-| **Backend** | Java 21, Spring Boot, Spring Security, REST APIs, JWT |
-| **Persistence** | PostgreSQL, Spring Data JPA, Spring JDBC, Redis |
-| **Web & deployment** | TypeScript, React, Next.js, Cloudflare Workers, Hyperdrive |
-| **Exploring** | Rust, systems programming, concurrency, failure recovery |
+### Tools on the desk.
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,ts,postgres,redis,cloudflare&theme=dark&perline=6" alt="Java, Spring, TypeScript, PostgreSQL, Redis, Cloudflare" />
+</p>
+
+**Backend** &nbsp; Java 21 · Spring Boot · Spring Security · REST · JWT  
+**Data** &nbsp; PostgreSQL · Redis · JPA · JDBC  
+**Web** &nbsp; TypeScript · React · Next.js  
+**Learning** &nbsp; Rust · Systems programming
 
 <br />
 
-## 04 / Current direction
+### The questions keeping me busy.
 
-```java
-while (learning) {
-    buildSomething();
-    questionTheDecisions();
-    improveTheSystem();
-}
-```
+> What if the same request arrives twice?  
+> What if two people take the last available slot?  
+> What if the database commits, but the notification fails?
 
-I'm working toward backend engineering that holds up beyond a successful demo: clear contracts, consistent data, useful documentation, and predictable behavior when something goes wrong.
+That's the kind of backend engineering I want to get good at.
 
 <br />
 
@@ -151,16 +110,17 @@ I'm working toward backend engineering that holds up beyond a successful demo: c
 
 <div align="center">
 
-### Have something interesting in mind?
+<br />
 
-A project, a backend problem, or a conversation about how things work.
+**Got an interesting problem? I'm listening.**
 
-**[Let's talk ↗](mailto:ayoolalucas.dev@gmail.com)**
+[ayoolalucas.dev@gmail.com](mailto:ayoolalucas.dev@gmail.com)
 
 <br />
 
-<sub>Babcock University · Nigeria · One commit closer.</sub>
+<sub>Built with curiosity. Occasionally held together by a very specific Stack Overflow answer.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123047,100:22D3EE&height=100&section=footer" width="100%" alt="" />
+<br />
+<br />
 
 </div>
